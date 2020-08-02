@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/emlynsg/emlynsg/master/hoodie_running.PNG" alt="Illustration of Emlyn walking">
+<img align="right" src="https://github.com/emlynsg/emlynsg/blob/master/hoodie_running.PNG" alt="Illustration of Emlyn walking">
 
 I'm Emlyn, a public servant and on-hiatus physicist, interested in too many things for one life! I like playing with data, and simulating physics and mathematics problems with code. I enjoy working in Python and R, and begrudgingly use C++ and Mathematica. I'm looking to get into blogging, and expanding my circle of online friends! 
 
