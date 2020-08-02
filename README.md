@@ -15,3 +15,4 @@ I'm Emlyn, a public servant and on-hiatus physicist, interested in too many thin
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/emlynsg) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emlynsg/) ![Visits Badge](https://badges.pufler.dev/visits/emlynsg/emlynsg?style=for-the-badge ) 
 
+All graphic credit, including profile picture, to <a href="https://www.pablostanley.com/">Pablo Stanley</a>.
