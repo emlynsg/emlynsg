@@ -6,10 +6,10 @@
 
 I'm Emlyn, a public servant and on-hiatus physicist, interested in too many things for one life! I like playing with data, and simulating physics and mathematics problems with code. I enjoy working in Python and R, and begrudgingly use C++ and Mathematica.
 
-- 🔭 I’m currently working on my personal website, and flexing my design muscles in the process!
-- 🌱 I’m currently learning more R.
+- 🔭 I’m working on my personal website, which has been very fun and quite confusing at the same time!
+- 🌱 I’m currently learning more R, and dipping my toes into Julia.
 - 🤔 I’m looking for a fun physics coding project to spend my socially distant weekends with.
-- 💬 Ask me about whatever you want! I probably don't know the answer though!
+- 💬 Always up for a chat if you're interested!
 - 📫 How to reach me: @ me on <a href="https://twitter.com/emlynsg">Twitter</a> about anything!
 - 😄 Pronouns: He/him
 
