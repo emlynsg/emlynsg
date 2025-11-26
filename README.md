@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Emlyn, a physicist interested in quantum, AI and nuclear (among other things). I like playing with data, and simulating physics problems with code. I enjoy working in Python, Julia and R, and begrudgingly use C++, Matlab and Mathematica.
+I'm Emlyn, a physicist interested in quantum information and AI safety (among other things). I like playing with data, and simulating physics problems with code. I enjoy working in Python, Julia and R, and begrudgingly use C++, Matlab and Mathematica.
 
 - 🔭 I’m working on my personal website, which has been very fun and quite confusing at the same time!
 - 🌱 I’m currently learning at lot more quantum.
